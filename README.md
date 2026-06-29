@@ -9,7 +9,7 @@ Welcome to my repository! This project is dedicated to documenting my journey th
 By solving these challenges, I have developed strong foundations in:
 * Procedural Programming: Breaking down complex problems into modular, reusable C++ functions.
 * Control Structures: Mastering dynamic input validation with do-while loops and multi-branch condition processing (if-else if, switch-case).
-* Data Types & Arithmetic:** Working with precise floating-point mathematics, structural casting, and memory efficiency via Pass-by-Reference (&).
+* Data Types & Arithmetic: Working with precise floating-point mathematics, structural casting, and memory efficiency via Pass-by-Reference (&).
 
 ---
 
